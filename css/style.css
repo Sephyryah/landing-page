@@ -14,7 +14,7 @@ header p{
   margin-top: 0;
 }
 
-.header-link, .hero-secondary-text {
+header a, .hero-secondary-text {
   font-size: 18px;
   color: #E5E7EB;
 }
