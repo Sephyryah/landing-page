@@ -21,6 +21,7 @@ header a, .hero-secondary-text {
 
 header {
   display: flex;
+  justify-content: space-around;
 }
 
 header ul {
