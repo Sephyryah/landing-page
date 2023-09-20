@@ -23,6 +23,7 @@ button, .cta-section {
 
 button {
   padding: 5px 25px;
+  border-radius: 5px;
 }
 
 /* HEADER PROPERTIES */
