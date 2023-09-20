@@ -2,7 +2,7 @@
 
 My second project from [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page) !
 
-Thanks to Freepik and Awicon for the icons !
+Thanks to Freepik, Awicon and Linector for the icons !
 
 ## Description
 
