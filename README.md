@@ -28,7 +28,7 @@ To use this project, you can follow these steps :
   2. Open the file "index.html" in your browser
   3. Search an interesting recipe and click on his link to see the details of the recipe
 
-If you don't want to clone the project on your local machine, you can use his Github Page.
+If you don't want to clone the project on your local machine, you can use his Github Page (WIP).
 
 ## Contributing
 
