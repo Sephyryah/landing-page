@@ -25,4 +25,5 @@ header {
 
 header ul {
   display: flex;
+  list-style: none;
 }
