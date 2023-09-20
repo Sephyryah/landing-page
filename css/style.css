@@ -70,3 +70,7 @@ header p{
 .hero img {
   height: 325px;
 }
+
+.hero button {
+  border: none;
+}
