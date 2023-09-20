@@ -47,6 +47,10 @@ header p{
   display: flex;
 }
 
+.hero div {
+  width: 35%;
+}
+
 .hero h1 {
   font-size: 48px;
   font-weight: 900;
