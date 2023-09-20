@@ -2,6 +2,8 @@
 
 My second project from [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page) !
 
+Thanks to Freepik and Awicon for the icons !
+
 ## Description
 
 This project is a website that consist of one landing page. This page contain a short description of my service for building website, some information, a quote and a call to action. All the links and button don't work.
