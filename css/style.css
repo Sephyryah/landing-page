@@ -12,6 +12,7 @@ header p{
   font-size: 24px;
   color: #F9FAF8;
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 header a, .hero-secondary-text {
@@ -22,6 +23,7 @@ header a, .hero-secondary-text {
 header {
   display: flex;
   justify-content: space-around;
+  align-items: center;
 }
 
 header ul {
