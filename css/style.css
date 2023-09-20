@@ -48,6 +48,7 @@ header p{
   justify-content: center;
   align-items: center;
   gap: 50px;
+  padding-bottom: 150px;
 }
 
 .hero div {
