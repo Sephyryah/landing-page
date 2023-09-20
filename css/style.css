@@ -1,3 +1,5 @@
+/* GENERAL PROPERTIES */
+
 body {
   margin: 0;
   padding: 0;
@@ -9,17 +11,12 @@ header, .hero, footer {
   background-color: #1F2937;
 }
 
-header p{
-  font-size: 24px;
-  color: #F9FAF8;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
 header a, .hero-secondary-text {
   font-size: 18px;
   color: #E5E7EB;
 }
+
+/* HEADER PROPERTIES */
 
 header {
   display: flex;
@@ -35,4 +32,11 @@ header ul {
 
 header a {
   text-decoration: none;
+}
+
+header p{
+  font-size: 24px;
+  color: #F9FAF8;
+  margin-top: 0;
+  margin-bottom: 0;
 }
