@@ -43,6 +43,10 @@ header p{
 
 /* HERO SECTION PROPERTIES */
 
+.hero {
+  display: flex;
+}
+
 .hero h1 {
   font-size: 48px;
   font-weight: 900;
