@@ -18,3 +18,7 @@ header, .hero, footer {
   font-size: 18px;
   color: #E5E7EB;
 }
+
+header {
+  display: flex;
+}
