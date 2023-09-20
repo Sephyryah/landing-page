@@ -22,3 +22,7 @@ header p{
 header {
   display: flex;
 }
+
+header ul {
+  display: flex;
+}
