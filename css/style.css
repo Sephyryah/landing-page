@@ -46,6 +46,7 @@ header p{
 .hero {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .hero div {
