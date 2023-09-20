@@ -16,6 +16,10 @@ header a, .hero-secondary-text {
   color: #E5E7EB;
 }
 
+button, .cta-section {
+  background-color: #3882F6;
+}
+
 /* HEADER PROPERTIES */
 
 header {
