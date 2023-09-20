@@ -40,3 +40,9 @@ header p{
   margin-top: 0;
   margin-bottom: 0;
 }
+
+/* HERO SECTION PROPERTIES */
+
+.hero h1 {
+  font-size: 48px;
+}
