@@ -11,21 +11,19 @@ header, .hero, footer {
   background-color: #1F2937;
 }
 
-header a, .hero-secondary-text {
+header a, .hero-secondary-text, button {
   font-size: 18px;
   color: #E5E7EB;
 }
 
 button, .cta-section {
   background-color: #3882F6;
-  color: #E5E7EB;
 }
 
 button {
   padding: 5px 25px;
   border-radius: 5px;
   font-weight: bold;
-  font-size: 18px;
 }
 
 /* HEADER PROPERTIES */
