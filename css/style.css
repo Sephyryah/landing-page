@@ -21,6 +21,10 @@ button, .cta-section {
   color: #E5E7EB;
 }
 
+button {
+  padding: 5px 25px;
+}
+
 /* HEADER PROPERTIES */
 
 header {
