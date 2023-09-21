@@ -134,3 +134,9 @@ header p{
   font-weight: bold;
   align-self: flex-end;
 }
+
+/* CTA SECTION */
+
+.cta-section {
+  color: #E5E7EB;
+}
