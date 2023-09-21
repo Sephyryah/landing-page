@@ -90,7 +90,9 @@ header p{
 
 .benefits ul {
   display: flex;
+  list-style: none;
 }
+
 .benefits img {
   width: 150px;
 }
