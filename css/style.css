@@ -155,3 +155,7 @@ header p{
 .cta-section p {
   margin: 0;
 }
+
+.cta-section button {
+  border: solid 2px #E5E7EB;
+}
