@@ -113,3 +113,7 @@ header p{
 .quotes {
   background-color: #E5E7EB;
 }
+
+.quotes q {
+  font-size: 36px;
+}
