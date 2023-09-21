@@ -94,6 +94,10 @@ header p{
   justify-content: space-evenly;
 }
 
+.benefits li {
+  display: flex;
+}
+
 .benefits img {
   width: 150px;
 }
