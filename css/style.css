@@ -138,6 +138,7 @@ header p{
 /* CTA SECTION */
 
 .cta-section {
+  display: flex;
   color: #E5E7EB;
   width: 1250px;
   margin: 125px auto;
