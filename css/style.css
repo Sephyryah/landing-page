@@ -124,3 +124,7 @@ header p{
   font-weight: 400;
   color: #1F2937;
 }
+
+.author {
+  font-weight: bold;
+}
