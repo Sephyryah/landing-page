@@ -132,4 +132,5 @@ header p{
 
 .author {
   font-weight: bold;
+  align-self: flex-end;
 }
