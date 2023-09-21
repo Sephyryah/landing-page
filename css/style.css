@@ -79,3 +79,9 @@ header p{
 .hero button {
   border: none;
 }
+
+/* BENEFITS SECTION */
+
+.benefits img {
+  width: 150px;
+}
