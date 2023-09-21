@@ -88,6 +88,9 @@ header p{
   color: #1F2937;
 }
 
+.benefits ul {
+  display: flex;
+}
 .benefits img {
   width: 150px;
 }
