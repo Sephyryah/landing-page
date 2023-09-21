@@ -94,6 +94,7 @@ header p{
   display: flex;
   list-style: none;
   justify-content: space-evenly;
+  padding-bottom: 150px;
 }
 
 .benefits li {
