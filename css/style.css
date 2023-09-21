@@ -147,3 +147,7 @@ header p{
   padding-top: 30px;
   padding-bottom: 30px;
 }
+
+.cta-section h2 {
+  margin: 0;
+}
