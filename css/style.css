@@ -91,6 +91,7 @@ header p{
 .benefits ul {
   display: flex;
   list-style: none;
+  justify-content: space-evenly;
 }
 
 .benefits img {
