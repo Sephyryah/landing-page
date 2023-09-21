@@ -82,6 +82,9 @@ header p{
 
 /* BENEFITS SECTION */
 
+.benefits h2 {
+  font-size: 36px;
+}
 .benefits img {
   width: 150px;
 }
