@@ -159,3 +159,9 @@ header p{
 .cta-section button {
   border: solid 2px #E5E7EB;
 }
+
+/* FOOTER */
+
+footer {
+  color: #E5E7EB;
+}
