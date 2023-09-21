@@ -127,7 +127,9 @@ header p{
 
 .quote {
   display: flex;
+  flex-direction: column;
 }
+
 .author {
   font-weight: bold;
 }
